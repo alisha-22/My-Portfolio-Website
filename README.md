@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Alisha Khan – Portfolio Website
 
-# Run and deploy your AI Studio app
+A personal portfolio showcasing my skills, projects, and journey as a Data Analyst & Frontend Developer.
 
-This contains everything you need to run your app locally.
+# Overview
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+This portfolio website is designed to highlight my work, technical expertise, and professional background. It serves as a central place where recruiters, collaborators, and clients can explore my projects in Data Analytics, Cloud, and Frontend Development.
 
-## Run Locally
+# Purpose
 
-**Prerequisites:**  Node.js
+Present my skills, experience, and tech stack
 
+Showcase featured projects with live demos & GitHub links
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Provide quick access to resume, LinkedIn, and contact details
+
+Act as a professional digital identity
