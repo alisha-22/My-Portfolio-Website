@@ -8,7 +8,7 @@ const Header: React.FC = () => {
     <header className="sticky top-0 z-50 bg-slate-900/75 backdrop-blur-sm">
         <div className="container mx-auto px-6 md:px-12 py-4 flex justify-between items-center">
              <h1 className="text-xl font-bold text-white tracking-tighter">
-                <a href="#">Alisha Khan</a>
+                <a href="#">Portfolio.</a>
             </h1>
             <nav className="hidden md:flex items-center space-x-6 text-sm font-medium text-slate-400">
                 <a href="#about" className="hover:text-purple-400 transition-colors">About</a>
